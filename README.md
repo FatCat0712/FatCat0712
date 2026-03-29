@@ -1,96 +1,83 @@
-👋 Hi, I'm Sơn Hải
+# 👋 Hi, I'm Sơn Hải
 
-🚀 Java Backend Developer | Spring Enthusiast
+### 🚀 Java Backend Developer | Spring Specialist
 
-I’m a backend-focused developer with a strong foundation in Java and the Spring ecosystem. I enjoy building secure, scalable systems and turning ideas into real, working applications.
+> Building **secure, scalable backend systems** with real-world architecture.
 
-🧠 About Me
+---
 
-💻 Backend developer specializing in Spring Boot & RESTful APIs
+## ⚡ Tech Stack
 
-🔐 Experienced with Spring Security (JWT, authentication & authorization)
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?logo=fastapi\&logoColor=white)
 
-🗄️ Strong foundation in SQL & database design
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 
-🧩 Currently improving system design & clean architecture skills
+**Frontend (Basic)**
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
 
-🎯 Expanding into full-stack development with simple, functional UIs
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
 
-📈 Actively preparing for intern/fresher opportunities
+---
 
-🛠️ Tech Stack
+## 📌 Featured Projects
 
-Backend
+### 🔹 User Management System
 
-Java
+🔗 [https://github.com/YOUR_USERNAME/YOUR_PROJECT](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
 
-Spring Boot
+* JWT Authentication + Role-Based Access Control (RBAC)
+* Spring Security best practices
+* Clean layered architecture (Controller → Service → Repository)
+* Simple UI to demonstrate real usage
 
-Spring Security
+---
 
-REST APIs
+### 🔹 E-commerce Backend System
 
-Database
+🔗 [https://github.com/YOUR_USERNAME/YOUR_PROJECT](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
 
-MySQL
+* Users, Products, Orders workflow
+* RESTful API design (production-style)
+* Secure endpoints + validation
+* Practical database schema design
 
-SQL Optimization
+---
 
-Frontend (Basic)
+## 📊 GitHub Analytics
 
-ReactJS
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
 
-HTML, CSS, JavaScript
+---
 
-Tools
+## 🎯 What I Bring
 
-Git & GitHub
+* Strong **Spring ecosystem foundation** (Boot, Security, REST)
+* Ability to build **end-to-end backend systems**
+* Focus on **clean code, security, and real-world practicality**
+* Continuous learner with **project-driven growth**
 
-Postman
+---
 
-Docker
+## 🎯 Goal
 
-📌 Featured Projects
+**Java Backend Intern / Fresher** — ready to contribute from day one.
 
-🔹 User Management System
+---
 
-Role-based authentication & authorization
+## 📫 Contact
 
-JWT security implementation
+* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: your-linkedin
 
-RESTful API design
+---
 
-Admin dashboard with basic UI
-
-🔹 E-commerce Backend System
-
-Product, Order, and User management
-
-Secure API endpoints
-
-Database design for real-world use cases
-
-(More projects coming soon...)
-
-📊 GitHub Stats
-
-
-
-
-
-🎯 Current Goals
-
-Improve problem-solving & data structures
-
-Build production-like fullstack projects
-
-Strengthen system design thinking
-
-Land a Java Backend Internship / Fresher Role
-
-📫 Contact Me
-
-Email: maisonhai456@gmail.com
-
-
-⭐ "Always learning, always building."
+⭐ *Focused on becoming a reliable backend engineer — not just writing code, but building systems.*
