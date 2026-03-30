@@ -42,7 +42,7 @@
 
 ### 🔹 E-commerce Backend System
 
-🔗 [https://github.com/FatCat0712/Shopme](https://github.com/FatCat0712/Shopme))
+🔗 [https://github.com/FatCat0712/Shopme](https://github.com/FatCat0712/Shopme)
 
 * Users, Products, Orders workflow
 * RESTful API design (production-style)
