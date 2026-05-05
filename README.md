@@ -1,113 +1,80 @@
-# Hi, I'm Son Hai
+# Hi, I’m Son Hai
 
-<p align="center">
-	<b>Java Backend Developer | Spring Specialist</b><br/>
-	Building secure, scalable backend systems with production-style architecture.
-</p>
+Java Backend Developer focused on building secure, maintainable backend systems with Spring Boot and production-style architecture.
 
-<p align="center">
-	<a href="https://github.com/FatCat0712">
-		<img src="https://img.shields.io/badge/GitHub-FatCat0712-181717?style=for-the-badge&logo=github" alt="GitHub" />
-	</a>
-	<a href="mailto:your-email@example.com">
-		<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-	</a>
-	<a href="https://www.linkedin.com/in/your-linkedin/">
-		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-</p>
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-FatCat0712-181717?style=for-the-badge&logo=github)](https://github.com/FatCat0712)
+[![Email](https://img.shields.io/badge/Email-maisonhai456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisonhai456@gmail.com)
+[![Target Role](https://img.shields.io/badge/Target-Java%20Backend%20Intern%20%2F%20Fresher-0A66C2?style=for-the-badge)](#)
 
 ## About Me
 
-- I build backend services with Java and Spring Boot, focused on clean architecture and maintainable code.
-- I design secure APIs using Spring Security, JWT, RBAC, and practical validation patterns.
-- I enjoy turning real business workflows into reliable systems: authentication, products, orders, and admin operations.
-- Target role: Java Backend Intern / Fresher.
-
----
+- I build backend services with Java and Spring Boot using clean layered design.
+- I design secure APIs with Spring Security, JWT, and role-based access control.
+- I enjoy turning business workflows into reliable systems: authentication, admin operations, product and restaurant management.
+- I am currently seeking a Java Backend Intern or Fresher Backend Developer opportunity.
 
 ## Tech Stack
 
 ### Backend
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Database
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0B5FFF?style=flat-square)
 
-### Frontend (Basic)
-
+### Frontend (Working Knowledge)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Dev Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Featured Projects
 
-### 1) User Management System
+### Hungry Belly (Food Delivery Admin Platform)
+Repository: https://github.com/FatCat0712/Hungry-Belly
 
-Repository: [Hungrey Belly](https://github.com/FatCat0712/Hungry-Belly)
+- Built a full-stack admin platform for users, roles, restaurants, categories, and foods.
+- Implemented JWT authentication with refresh flow, HTTP-only cookies, and RBAC.
+- Developed reusable CRUD flows with pagination, sorting, filtering, and status toggles.
+- Added S3-compatible image upload via presigned URLs and cleanup jobs for stale files.
+- Implemented CSV/Excel export and improved query performance by reducing N+1 issues.
 
-Highlights:
+### Shopme (E-commerce System)
+Repository: https://github.com/FatCat0712/Shopme
 
-- JWT Authentication and Role-Based Access Control (RBAC)
-- Spring Security best practices for endpoint protection
-- Clean layered design: Controller -> Service -> Repository
-- Lightweight UI to demonstrate user flows end-to-end
+- Developed backend modules for product, customer, and order workflows.
+- Implemented authentication and authorization with Spring Security and OAuth2.
+- Built admin features for users, products, orders, shipping, payments, and reporting.
+- Added search, filtering, pagination, and sorting for management operations.
+- Integrated PayPal Checkout and storage handling for product and media assets.
 
-### 2) Shopme E-commerce Backend
+## GitHub Stats
 
-Repository: [Shopme](https://github.com/FatCat0712/Shopme)
-
-Highlights:
-
-- User, product, and order workflows with practical business logic
-- RESTful API design following production-style patterns
-- Secure endpoints with input validation and error handling
-- Structured relational schema for maintainable growth
-
----
-
-## GitHub Analytics
-
-<p align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=FatCat0712&show_icons=true&hide_border=true" alt="GitHub stats" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatCat0712&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
+![Son Hai GitHub stats](https://github-readme-stats.vercel.app/api?username=FatCat0712&show_icons=true&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatCat0712&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=FatCat0712&hide_border=true)
 
 ## What I Bring
 
-- Strong Spring ecosystem foundation: Spring Boot, Spring Security, REST APIs
-- Ability to deliver end-to-end backend features from database to API layer
-- Focus on clean code, security, and practical software engineering
-- Fast learner with project-driven growth and execution mindset
-
----
-
-## Current Goal
-
-Java Backend Intern / Fresher role where I can contribute from day one and grow through real product development.
-
----
+- Strong Spring ecosystem foundation with practical, project-driven implementation.
+- Ability to deliver end-to-end backend features from database to API layer.
+- Focus on clean code, security, and maintainability.
+- Fast learner with consistent execution and ownership mindset.
 
 ## Contact
 
-- Email: [your-email@example.com](mailto:maisonhai456@gmail.com)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)
-
----
-
-If you are looking for a backend-focused developer who values clean architecture, security, and reliability, let's connect.
+- Email: maisonhai456@gmail.com
+- GitHub: https://github.com/FatCat0712
+- LinkedIn: https://www.linkedin.com/in/your-linkedin/
