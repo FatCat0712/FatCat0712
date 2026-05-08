@@ -1,17 +1,17 @@
-# Hi, I’m Son Hai
+# Hi, I'm Son Hai
 
-Java Backend Developer focused on building secure, maintainable backend systems with Spring Boot and production-style architecture.
+Java backend developer focused on Spring Boot, secure API design, and production-style systems that solve real business workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-FatCat0712-181717?style=for-the-badge&logo=github)](https://github.com/FatCat0712)
 [![Email](https://img.shields.io/badge/Email-maisonhai456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisonhai456@gmail.com)
-[![Target Role](https://img.shields.io/badge/Target-Java%20Backend%20Intern%20%2F%20Fresher-0A66C2?style=for-the-badge)](#)
+[![Role](https://img.shields.io/badge/Target-Java%20Backend%20Developer-0A66C2?style=for-the-badge)](#)
 
 ## About Me
 
-- I build backend services with Java and Spring Boot using clean layered design.
-- I design secure APIs with Spring Security, JWT, and role-based access control.
-- I enjoy turning business workflows into reliable systems: authentication, admin operations, product and restaurant management.
-- I am currently seeking a Java Backend Intern or Fresher Backend Developer opportunity.
+- I build backend systems with Java, Spring Boot, Spring Security, and Spring Data JPA.
+- I like turning product requirements into clean APIs, secure auth flows, and maintainable admin operations.
+- I can work across the stack when needed, especially with React admin dashboards that integrate with backend services.
+- I'm actively building portfolio projects that mirror real e-commerce and food-delivery workflows.
 
 ## Tech Stack
 
@@ -23,42 +23,44 @@ Java Backend Developer focused on building secure, maintainable backend systems 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-0B5FFF?style=flat-square)
-
-### Frontend (Working Knowledge)
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Data and Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0B5FFF?style=flat-square)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## Featured Projects
 
-### Hungry Belly (Food Delivery Admin Platform)
-Repository: https://github.com/FatCat0712/Hungry-Belly
+### Hungry Belly - Food Delivery Admin Platform
+**Repository:** https://github.com/FatCat0712/Hungry-Belly
 
-- Built a full-stack admin platform for users, roles, restaurants, categories, and foods.
-- Implemented JWT authentication with refresh flow, HTTP-only cookies, and RBAC.
-- Developed reusable CRUD flows with pagination, sorting, filtering, and status toggles.
-- Added S3-compatible image upload via presigned URLs and cleanup jobs for stale files.
-- Implemented CSV/Excel export and improved query performance by reducing N+1 issues.
+- Built a full-stack admin platform for authentication, users, roles, restaurants, categories, foods, and restaurant membership management.
+- Implemented JWT login, refresh-token flow, protected routes, and role-based access control across backend and frontend.
+- Added operational features such as media uploads, export flows, and admin management screens for restaurant operations.
+- **Latest update:** restructured the React frontend into a dedicated `admin-app`, making the platform split clearer between the Spring Boot API and the admin dashboard and setting up the UI for continued growth.
 
-### Shopme (E-commerce System)
-Repository: https://github.com/FatCat0712/Shopme
+### Shopme - E-commerce System
+**Repository:** https://github.com/FatCat0712/Shopme
 
-- Developed backend modules for product, customer, and order workflows.
-- Implemented authentication and authorization with Spring Security and OAuth2.
-- Built admin features for users, products, orders, shipping, payments, and reporting.
-- Added search, filtering, pagination, and sorting for management operations.
-- Integrated PayPal Checkout and storage handling for product and media assets.
+- Built backend and storefront flows for products, customers, orders, reviews, and search-driven shopping experiences.
+- Worked with Spring Boot, Spring Security, Thymeleaf, Hibernate, MySQL, OAuth2 login, and PayPal integration.
+- Developed admin and customer features around catalog management, checkout, reporting, and product discovery.
+- **Latest update:** added search previewing to the storefront, including debounced search suggestions and supporting controller/service updates to improve product discovery directly from the navigation flow.
+
+## Current Focus
+
+- Building backend-heavy systems with practical admin workflows
+- Strengthening API security and business-logic design
+- Shipping full-stack portfolio projects with real CRUD, auth, and operations features
 
 ## GitHub Stats
 
@@ -66,16 +68,7 @@ Repository: https://github.com/FatCat0712/Shopme
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatCat0712&layout=compact&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=FatCat0712&hide_border=true)
 
-
-## What I Bring
-
-- Strong Spring ecosystem foundation with practical, project-driven implementation.
-- Ability to deliver end-to-end backend features from database to API layer.
-- Focus on clean code, security, and maintainability.
-- Fast learner with consistent execution and ownership mindset.
-
 ## Contact
 
 - Email: maisonhai456@gmail.com
 - GitHub: https://github.com/FatCat0712
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/
